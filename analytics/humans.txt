@@ -1,0 +1,9 @@
+/* TEAM */
+Company: Pine Appleanalyst
+Website: https://www.pineappleanalyst.ai
+Location: Charlotte, NC
+
+//* SITE */
+Published: 2026-11-05
+Language: English
+Doctype: HTML5
